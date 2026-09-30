@@ -1,0 +1,16 @@
+Recipient: aditya88129@gmail.com
+
+Purpose:
+Request an opportunity to work on an AI/ML research project.
+
+My details:
+I am a B.Tech Computer Science student at Bennett University.
+I am interested in Machine Learning and NLP.
+
+Tone:
+Professional, polite and respectful.
+
+Instructions:
+Write a personalized email based on the details above.
+Create a suitable subject and email body.
+Do not invent achievements or experience.

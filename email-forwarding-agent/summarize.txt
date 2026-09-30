@@ -1,0 +1,34 @@
+
+=================================================================
+EMAIL RECEIVED: 2026-09-30 19:58:38
+=================================================================
+From: Anurag Mishra <am7493923@gmail.com>
+Subject: first task of yours
+
+SUMMARY:
+Welcome to the Software Development team. Your first task is to extend the internal file-sharing application 'Air' by adding a 'Nearby Devices' section to the web interface. This feature should display currently online local network devices, allow users to initiate sharing, and handle authentication and edge cases gracefully. You must use the existing Java backend, WebSocket communication, and frontend approach without introducing new frameworks or databases. Submit a pull request with the implementation, explanation, and testing details.
+
+ACTION ITEMS:
+- Understand the existing structure of the Air application (CLI, backend, WebSocket, LAN discovery, frontend).
+- Implement a 'Nearby Devices' section in the web interface for logged-in users.
+- Ensure the UI displays only currently online devices and updates dynamically.
+- Integrate authentication so unauthenticated users cannot see nearby devices.
+- Handle edge cases: no devices, discovery service unavailable, device goes offline.
+- Ensure the feature is responsive and consistent with existing design.
+- Verify existing functionality (file sharing, auth, CLI) remains intact.
+- Create a separate Git branch for the work.
+- Raise a pull request including the feature, approach explanation, assumptions, modified files, testing performed, and local run instructions.
+- Verify authentication, online/offline handling, network discovery, UI responsiveness, and existing workflows before submission.
+
+TECH STACK:
+Java, HTTP, WebSocket, Git, Web Interface, CLI
+
+DEADLINE:
+7 October 2026, 6:00 PM IST
+
+PRIORITY:
+High
+
+REPLY REQUIRED:
+False
+

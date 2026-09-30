@@ -1,0 +1,14 @@
+# Environment and secrets
+.venv/
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
